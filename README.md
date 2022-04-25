@@ -23,3 +23,8 @@ Set up and installation
 
 Clone the repository content to your machine.
 Run ./run.py on your terminal.
+
+
+Technologies used
+
+python3
