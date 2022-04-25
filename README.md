@@ -33,3 +33,5 @@ Contact infomation
 
 kabuikariuki052@gmail.com
 
+License and Copyright details
+The MIT License (MIT) Copyright (c) 2022 kabui kariuki
