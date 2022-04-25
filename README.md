@@ -28,3 +28,7 @@ Run ./run.py on your terminal.
 Technologies used
 
 python3
+
+Contact infomation
+
+kabuikariuki052@gmail.com
