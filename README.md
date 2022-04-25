@@ -17,3 +17,9 @@ Find credentials accounts	fc	return found created account
 Generate random passwords	ga	return generated password
 Log Out	lg	Log Out was successful .......
 Exit	ex	Bye, your credentials are protected! .......
+
+
+Set up and installation
+
+Clone the repository content to your machine.
+Run ./run.py on your terminal.
